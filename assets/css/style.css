@@ -40,3 +40,14 @@
 .hvr-grow:active {
     transform: scale(1.04);
 }
+
+.b-none {
+    border: none;
+}
+.text-cyan {
+  color:#32B1A8;
+}
+
+.text-blue {
+  color:#2E4D9F !important;
+}

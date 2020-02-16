@@ -1,0 +1,44 @@
+/* button */
+.btn-xlarge {
+    position: relative;
+    vertical-align: center;
+    margin: 10px;
+    width: 50%;
+    height: 130px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+#button2 {
+    position: relative;
+    vertical-align: center;
+    margin-right: 10px;
+    margin-top: -140px;
+    width: 40%;
+    height: 60px;
+    float: right;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+#button3 {
+    position: relative;
+    vertical-align: center;
+    margin-right: 10px;
+    margin-top: -70px;
+    width: 40%;
+    height: 60px;
+    float: right;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+/* end button */
+
+/* ligne séparatrice */
+hr {
+    display: block;
+}
